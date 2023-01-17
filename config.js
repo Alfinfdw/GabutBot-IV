@@ -20,11 +20,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['Nomor kamu']
-global.ownernomer = "Nomor Kamu"
-global.premium = ['Nomor kamu']
-global.packname = 'Sticker By'
-global.author = 'GabutBot v3.1'
+global.owner = ['6285608468994']
+global.ownernomer = "6285608468994"
+global.premium = ['6285608468994']
+global.packname = 'DivanXd'
+global.author = 'DivanXd v3.1'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -60,14 +60,14 @@ global.thumb = fs.readFileSync('./media/image/naze.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
 
 // Url
-global.mygit = 'https://github.com/yangjunming12'
-global.myyt = 'Yt kamu'
-global.myytv = 'Yt video kamu'
-global.mygc = "Grup wa kamu"
+global.mygit = 'https://github.com/DivanXd'
+global.myyt = 'DivanXd'
+global.myytv = 'DivanXd'
+global.mygc = "DivanXd"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'GABUT-BOT'
-global.akulaku = 'Bot by YangJunMing'
+global.botname = 'DivanXd'
+global.akulaku = 'Bot by DivanXd'
 global.ytname = 'Nama yt kamu' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
